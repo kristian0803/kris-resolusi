@@ -3,3 +3,4 @@ Kris RESOLUSI
 - Membuat website edukasi agama islam yang berisi tentang pembahasan hadis, ayat alqur'an, dan berita tentang kegiatan-kegiatan yang berhubungan dengan dakwah
 - Membuat aplikasi android yang isinya sama dengan website yang sudah dibuat
 - Membuat website toko
+- Membuat chanel youtube yang konten nya berisi tentang dakwah
