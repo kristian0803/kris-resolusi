@@ -1,0 +1,4 @@
+Kris RESOLUSI
+- Konsisten mempelajari pemrograman website dan andorid
+- Membuat website edukasi agama islam yang berisi tentang pembahasan hadis, ayat alqur'an, dan berita tentang kegiatan-kegiatan yang berhubungan dengan dakwah
+- Membuat aplikasi android yang isinya sama dengan website yang sudah dibuat
